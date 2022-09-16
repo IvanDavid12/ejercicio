@@ -3,17 +3,14 @@
 
 ##ventana principal y frame entrada de datos
 
-![ventana principal y frame de entrada ](ventana_principal.png "frame operaciones")
+![ventana principal y frame de entrada ](gui_01/img/ventana_principal.png "frame operaciones")
  
- ## botones 
+## frame operaciones, botones 
 
- ![botones](botones.png) 
+![botones](gui_01/img/botones.png) 
 
  
- 
- 
- 
- ## frame resultado 
- ![ventana principal y frame resultado](resultado.png)
+## frame resultado 
+![ventana principal y frame resultado](gui_01/img/resultado.png)
 
  
